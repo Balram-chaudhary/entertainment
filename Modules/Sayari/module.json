@@ -1,0 +1,14 @@
+{
+    "name": "Sayari",
+    "alias": "sayari",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Sayari\\Providers\\SayariServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
